@@ -16,5 +16,4 @@ spec:
   # Selector para encontrar qué pods pertenecen a este servicio
   selector:
     app: casino-frontend
-  # Tipo de servicio: LoadBalancer (accesible desde internet mediante una IP pública en AWS)
-  type: LoadBalancer
+  type: NodePort

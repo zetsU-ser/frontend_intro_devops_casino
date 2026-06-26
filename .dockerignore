@@ -4,4 +4,3 @@ dist
 .gitignore
 .DS_Store
 Dockerfile
-nginx.conf
